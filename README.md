@@ -58,15 +58,9 @@ A GenAI-powered pipeline to predict product prices based solely on textual featu
 
 ## 📁 Folder Structure
 ```bash
-week6/
-├── day1_data_loading.py
-├── day2_data_curation.py
-├── day3_feature_engineering.py
-├── day4_model_baselines.py
-week7/
-├── day1_gpt_comparison.py
-├── day2_llama_finetuning.py
-├── llama_lora_config.json
+├── data_loading.py
+├── data_curation.py
+
 ```
 
 ---
