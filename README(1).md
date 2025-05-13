@@ -79,7 +79,6 @@ We test three tiers of models:
 ├── the_product_pricer.py      # Model benchmarking and testing
 ├── loaders.py                 # Parallelized data ingestion
 ├── items.py                   # Data cleaning & prompt builder
-├── llama_lora_config.json     # LoRA fine-tuning setup
 ├── README.md                  # This file ✨
 ```
 
