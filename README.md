@@ -95,14 +95,6 @@ We test three tiers of models:
 
 ---
 
-## ✨ Why This Project Rocks
-
-- Built from scratch with production-ready data pipelines
-- Proves open-source LLMs can outperform proprietary models on numeric regression
-- Showcases structured prompt formatting and aligned prediction behavior
-
----
-
 ## 📌 Sample Prompt
 
 ```
