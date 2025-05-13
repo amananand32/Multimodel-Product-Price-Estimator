@@ -540,7 +540,7 @@ def gpt_4o(item):
 Tester.test(gpt_4o, test)
 ## Got avg pridction error of 76$ on Gpt_4o
 
-#### Finetuning Gpt_4o
+#### Gpt_4o
 
 # OpenAI recommends fine-tuning with populations of 50-100 examples
 # But as our examples are very small, we can go with 500 examples (and 1 epoch)
